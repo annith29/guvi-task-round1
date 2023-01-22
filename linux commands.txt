@@ -1,0 +1,45 @@
+ls
+clear
+pwd
+sudo su
+mkdir
+cat
+touch
+vi 
+mv 
+cp
+head <filename>
+tail <filename>
+ls | head
+ls | tail
+history
+grep 
+find
+rmdir
+chmod
+useradd
+chown
+top
+kill
+ps -ef
+nice
+renice
+wget
+curl
+traceout
+nslookup
+echo
+apt 
+yum 
+chgrp
+chmod
+chown
+diff
+gzip
+tar
+ifconfig
+more 
+nano
+rename
+sleep
+zip
